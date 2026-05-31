@@ -1,0 +1,6 @@
+flask
+flask-cors
+ultralytics
+deepface
+opencv-python
+pillow
