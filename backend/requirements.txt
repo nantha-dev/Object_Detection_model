@@ -3,6 +3,9 @@ flask-cors
 ultralytics
 deepface==0.0.79
 opencv-python-headless
-pillow
 numpy
+pillow
 werkzeug
+tensorflow
+mtcnn
+gdown
